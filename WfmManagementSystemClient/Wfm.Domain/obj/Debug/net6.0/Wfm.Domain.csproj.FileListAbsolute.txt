@@ -1,0 +1,12 @@
+D:\OneDrive - Softura, Inc\Documents\Theo's works\Dot net training\Final Project\WfmManagement Source code\WfmManagementSystemClient\Wfm.Domain\bin\Debug\net6.0\Wfm.Domain.deps.json
+D:\OneDrive - Softura, Inc\Documents\Theo's works\Dot net training\Final Project\WfmManagement Source code\WfmManagementSystemClient\Wfm.Domain\bin\Debug\net6.0\Wfm.Domain.dll
+D:\OneDrive - Softura, Inc\Documents\Theo's works\Dot net training\Final Project\WfmManagement Source code\WfmManagementSystemClient\Wfm.Domain\bin\Debug\net6.0\Wfm.Domain.pdb
+D:\OneDrive - Softura, Inc\Documents\Theo's works\Dot net training\Final Project\WfmManagement Source code\WfmManagementSystemClient\Wfm.Domain\obj\Debug\net6.0\Wfm.Domain.csproj.AssemblyReference.cache
+D:\OneDrive - Softura, Inc\Documents\Theo's works\Dot net training\Final Project\WfmManagement Source code\WfmManagementSystemClient\Wfm.Domain\obj\Debug\net6.0\Wfm.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Softura, Inc\Documents\Theo's works\Dot net training\Final Project\WfmManagement Source code\WfmManagementSystemClient\Wfm.Domain\obj\Debug\net6.0\Wfm.Domain.AssemblyInfoInputs.cache
+D:\OneDrive - Softura, Inc\Documents\Theo's works\Dot net training\Final Project\WfmManagement Source code\WfmManagementSystemClient\Wfm.Domain\obj\Debug\net6.0\Wfm.Domain.AssemblyInfo.cs
+D:\OneDrive - Softura, Inc\Documents\Theo's works\Dot net training\Final Project\WfmManagement Source code\WfmManagementSystemClient\Wfm.Domain\obj\Debug\net6.0\Wfm.Domain.csproj.CoreCompileInputs.cache
+D:\OneDrive - Softura, Inc\Documents\Theo's works\Dot net training\Final Project\WfmManagement Source code\WfmManagementSystemClient\Wfm.Domain\obj\Debug\net6.0\Wfm.Domain.dll
+D:\OneDrive - Softura, Inc\Documents\Theo's works\Dot net training\Final Project\WfmManagement Source code\WfmManagementSystemClient\Wfm.Domain\obj\Debug\net6.0\refint\Wfm.Domain.dll
+D:\OneDrive - Softura, Inc\Documents\Theo's works\Dot net training\Final Project\WfmManagement Source code\WfmManagementSystemClient\Wfm.Domain\obj\Debug\net6.0\Wfm.Domain.pdb
+D:\OneDrive - Softura, Inc\Documents\Theo's works\Dot net training\Final Project\WfmManagement Source code\WfmManagementSystemClient\Wfm.Domain\obj\Debug\net6.0\ref\Wfm.Domain.dll

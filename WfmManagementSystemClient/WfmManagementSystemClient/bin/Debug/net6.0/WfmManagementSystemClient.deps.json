@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WfmManagementSystemClient/1.0.0": {
+        "runtime": {
+          "WfmManagementSystemClient.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WfmManagementSystemClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

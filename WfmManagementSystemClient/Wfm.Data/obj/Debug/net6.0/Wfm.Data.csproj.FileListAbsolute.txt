@@ -1,0 +1,17 @@
+D:\OneDrive - Softura, Inc\Documents\Theo's works\Dot net training\Final Project\WfmManagement Source code\WfmManagementSystemClient\Wfm.Data\bin\Debug\net6.0\Wfm.Data.deps.json
+D:\OneDrive - Softura, Inc\Documents\Theo's works\Dot net training\Final Project\WfmManagement Source code\WfmManagementSystemClient\Wfm.Data\bin\Debug\net6.0\Wfm.Data.dll
+D:\OneDrive - Softura, Inc\Documents\Theo's works\Dot net training\Final Project\WfmManagement Source code\WfmManagementSystemClient\Wfm.Data\bin\Debug\net6.0\Wfm.Data.pdb
+D:\OneDrive - Softura, Inc\Documents\Theo's works\Dot net training\Final Project\WfmManagement Source code\WfmManagementSystemClient\Wfm.Data\bin\Debug\net6.0\Wfm.Core.dll
+D:\OneDrive - Softura, Inc\Documents\Theo's works\Dot net training\Final Project\WfmManagement Source code\WfmManagementSystemClient\Wfm.Data\bin\Debug\net6.0\Wfm.Domain.dll
+D:\OneDrive - Softura, Inc\Documents\Theo's works\Dot net training\Final Project\WfmManagement Source code\WfmManagementSystemClient\Wfm.Data\bin\Debug\net6.0\Wfm.Core.pdb
+D:\OneDrive - Softura, Inc\Documents\Theo's works\Dot net training\Final Project\WfmManagement Source code\WfmManagementSystemClient\Wfm.Data\bin\Debug\net6.0\Wfm.Domain.pdb
+D:\OneDrive - Softura, Inc\Documents\Theo's works\Dot net training\Final Project\WfmManagement Source code\WfmManagementSystemClient\Wfm.Data\obj\Debug\net6.0\Wfm.Data.csproj.AssemblyReference.cache
+D:\OneDrive - Softura, Inc\Documents\Theo's works\Dot net training\Final Project\WfmManagement Source code\WfmManagementSystemClient\Wfm.Data\obj\Debug\net6.0\Wfm.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Softura, Inc\Documents\Theo's works\Dot net training\Final Project\WfmManagement Source code\WfmManagementSystemClient\Wfm.Data\obj\Debug\net6.0\Wfm.Data.AssemblyInfoInputs.cache
+D:\OneDrive - Softura, Inc\Documents\Theo's works\Dot net training\Final Project\WfmManagement Source code\WfmManagementSystemClient\Wfm.Data\obj\Debug\net6.0\Wfm.Data.AssemblyInfo.cs
+D:\OneDrive - Softura, Inc\Documents\Theo's works\Dot net training\Final Project\WfmManagement Source code\WfmManagementSystemClient\Wfm.Data\obj\Debug\net6.0\Wfm.Data.csproj.CoreCompileInputs.cache
+D:\OneDrive - Softura, Inc\Documents\Theo's works\Dot net training\Final Project\WfmManagement Source code\WfmManagementSystemClient\Wfm.Data\obj\Debug\net6.0\Wfm.Data.csproj.CopyComplete
+D:\OneDrive - Softura, Inc\Documents\Theo's works\Dot net training\Final Project\WfmManagement Source code\WfmManagementSystemClient\Wfm.Data\obj\Debug\net6.0\Wfm.Data.dll
+D:\OneDrive - Softura, Inc\Documents\Theo's works\Dot net training\Final Project\WfmManagement Source code\WfmManagementSystemClient\Wfm.Data\obj\Debug\net6.0\refint\Wfm.Data.dll
+D:\OneDrive - Softura, Inc\Documents\Theo's works\Dot net training\Final Project\WfmManagement Source code\WfmManagementSystemClient\Wfm.Data\obj\Debug\net6.0\Wfm.Data.pdb
+D:\OneDrive - Softura, Inc\Documents\Theo's works\Dot net training\Final Project\WfmManagement Source code\WfmManagementSystemClient\Wfm.Data\obj\Debug\net6.0\ref\Wfm.Data.dll

@@ -1,0 +1,79 @@
+﻿@{
+    Layout = null;
+}
+@model IEnumerable<WfmManagementSystemClient.Models.Manager>
+<style>
+    .table {
+        font-family: Arial, Helvetica, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+        margin-top: 35px;
+    }
+
+
+
+        .table td, #customers th {
+            border: 1px solid #ddd;
+            padding: 8px;
+        }
+
+
+
+        .table tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+
+
+        .table tr:hover {
+            background-color: #ddd;
+        }
+
+
+
+        .table th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: left;
+            background-color: #04AA6D;
+            color: white;
+        }
+        .heading{
+                text-align: center;
+                font-size: 25px;
+                margin-top: 30px;
+                font-family: Arial, Helvetica, sans-serif;
+        }
+
+</style>
+<h3 class="heading"> WELCOME MANAGER</h3>
+
+<table class='table'>
+
+    <tr>
+        <th> EmpId </th>
+        <th> Name </th>
+        <th> Skill </th>
+        <th> Profile </th>
+        <th> Experience </th>
+        <th> Manager Name </th>
+        <th> Lock Status </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td> @item.EmpId </td>
+            <td> @item.Name </td>
+            <td> @item.Skill </td>
+            <td> @item.Profile </td>
+            <td> @item.Experience </td>
+            <td> @item.ManagerName </td>
+            <td><a asp-action="GetDetailOfId" asp-route-id="@item.LockId"> Request Lock </a></td>
+
+        </tr>
+    }
+
+
+
+</table>
